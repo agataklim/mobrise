@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+
+
+#slider-h H2 {
+  text-align: right;
+}
+#slider-h P {
+  text-align: right;
+}
+#header1-m H1 {
+  color: #ffffff;
+}
+#msg-box4-1 .lead P {
+  text-align: center;
+}
+#msg-box4-1 .mbr-section-title {
+  color: #000000;
+}
+#content4-9 P {
+  text-align: left;
+}
+#content4-9 H4 {
+  color: #d9534f;
+}
+#content5-2 .mbr-section-title P {
+  color: #000000;
+}
+#testimonials1-8 .card-block {
+  font-size: 30px;
+  color: #d9534f;
+  text-align: center;
+}
+#testimonials1-8 .card-footer > div {
+  font-size: 20px;
+  color: #000000;
+  font-family: 'Alegreya Sans', sans-serif;
+  text-align: center;
+}
+#testimonials1-8 .card-footer > div B {
+  font-size: 25px;
+  color: #000000;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#testimonials1-8 .card-block B {
+  color: #000000;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 25px;
+}
+#testimonials1-8 .card-block I {
+  color: #000000;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#testimonials1-8 .mbr-section-title {
+  color: #000000;
+}
+#msg-box5-4 .mbr-section-title {
+  font-size: 22px;
+}
+#content4-c H4 {
+  font-size: 21px;
+  color: #d9534f;
+}
+#content4-c B {
+  font-size: 20px;
+}
+#msg-box1-l H2 {
+  font-size: 19px;
+}
+#msg-box1-l .btn {
+  font-size: 18px;
+}
